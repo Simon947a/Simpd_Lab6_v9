@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524569211526.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4139616389",
+    "id" : "1C1F093E",
+    "lastKnownWriteTime" : 1524570252,
+    "last_content_update" : -2147483648,
+    "path" : "~/RStudio/Lab6/Lab6Script.R",
+    "project_path" : "Lab6Script.R",
+    "properties" : {
+        "cursorPosition" : "52,29",
+        "scrollLine" : "19",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
